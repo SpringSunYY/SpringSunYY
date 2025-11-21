@@ -1,4 +1,8 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1200&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+YY!;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80;属于我的代码世界" />
+<div align="center">
+  <a href="https://github.com/SpringSunYY">
+    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&pause=1000&color=09F724&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I+am+YY;Welcome+to+my+code+world%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/SpringSunYY">
