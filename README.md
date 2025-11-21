@@ -2,9 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/SpringSunYY">
-<p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=热爱可抵岁月漫长！;让正确的事情持续发生！&center=true&size=27" />
-</p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E7%83%AD%E7%88%B1%E5%8F%AF%E6%8A%B5%E5%B2%81%E6%9C%88%E6%BC%AB%E9%95%BF%EF%BC%81%E8%AE%A9%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%8B%E6%83%85%E6%8C%81%E7%BB%AD%E5%8F%91%E7%94%9F%EF%BC%81" alt="Typing SVG" />
   </a>
 </div>
 
