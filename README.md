@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/SpringSunYY">
-    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&pause=1000&color=09F724&center=true&vCenter=true&width=600&height=60&lines=Hello%2CYY;Welcome+to+my+code+world%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&pause=1000&color=09F724&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I+am+YY;Welcome+to+my+code+world%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,40 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpringSunYY/SpringSunYY/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SpringSunYY/SpringSunYY/output/github-contribution-grid-snake.svg">
 </picture>
-
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="50%" style="border:none; padding:10px;">
+      <div style="height:160px; display:flex; align-items:center; justify-content:center;">
+        <a href="https://github.com/SpringSunYY/LZ-Picture">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=LZ-Picture&theme=transparent" />
+        </a>
+      </div>
+    </td>
+    <td align="center" width="50%" style="border:none; padding:10px;">
+      <div style="height:160px; display:flex; align-items:center; justify-content:center;">
+        <a href="https://github.com/SpringSunYY/LZ-RuoYi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=LZ-RuoYi&theme=transparent" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="border:none; padding:10px;">
+      <div style="height:160px; display:flex; align-items:center; justify-content:center;">
+        <a href="https://github.com/SpringSunYY/LZ-RuoYi-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=LZ-RuoYi-App&theme=transparent" />
+        </a>
+      </div>
+    </td>
+    <td align="center" width="50%" style="border:none; padding:10px;">
+      <div style="height:160px; display:flex; align-items:center; justify-content:center;">
+        <a href="https://github.com/SpringSunYY/YY">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=YY&theme=transparent" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,9 +65,10 @@
 ## 📊 GitHub 活跃度
 
 <div style="display:flex; justify-content:center; gap:20px;">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SpringSunYY&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpringSunYY&layout=compact&theme=transparent" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SpringSunYY&show_icons=true&theme=transparent" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpringSunYY&layout=compact&theme=transparent" />
 </div>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpringSunYY&theme=tokyo-night&hide_border=true" />
