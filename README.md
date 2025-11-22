@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/SpringSunYY">
-    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&pause=1000&color=09F724&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I+am+YY;Welcome+to+my+code+world%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&pause=1000&color=09F724&center=true&vCenter=true&width=600&height=60&lines=Hello%2CYY;Welcome+to+my+code+world%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
