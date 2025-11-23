@@ -67,21 +67,25 @@
 
 ## 😁 联系我
 
+
+
 <p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <a href="mailto:3217778348@qq.com">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="QQ邮箱" title="QQ邮箱" />
+    <img height="60" src="./assets/qqmail.png" alt="QQ邮箱" title="QQ邮箱" />
   </a>
   <a href="mailto:waitspringyy@gmail.com">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Google邮箱" title="Google邮箱" />
+    <img height="60" src="./assets/gmail.png" alt="Google邮箱" title="Google邮箱" />
   </a>
   <a href="https://www.douyin.com/user/MS4wLjABAAAAgisqDvuV-EkMlik_LCT0fWvuIV1HoMY55uxeHiqpLg4?from_tab_name=main" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/douyin.svg" alt="抖音" title="抖音" />
+    <img height="60" src="./assets/douyin.png" alt="抖音" title="抖音" />
   </a>
   <a href="https://space.bilibili.com/3546627304327173" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bilibili.svg" alt="B站" title="B站" />
+    <img height="60" src="./assets/bilibili.png" alt="B站" title="B站" />
   </a>
   <a href="https://www.youtube.com/@SpringSunYY" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" title="YouTube" />
+    <img height="60" src="./assets/youtube.png" alt="YouTube" title="YouTube" />
   </a>
 </p>
+
+
 
