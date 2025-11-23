@@ -10,49 +10,70 @@
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpringSunYY/SpringSunYY/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpringSunYY/SpringSunYY/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SpringSunYY/SpringSunYY/output/github-contribution-grid-snake.svg">
-</picture>
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" width="50%" style="border:none; padding:10px;">
-      <div style="height:160px; display:flex; align-items:center; justify-content:center;">
-        <a href="https://github.com/SpringSunYY/LZ-Picture">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=LZ-Picture&theme=transparent" />
-        </a>
-      </div>
-    </td>
-    <td align="center" width="50%" style="border:none; padding:10px;">
-      <div style="height:160px; display:flex; align-items:center; justify-content:center;">
-        <a href="https://github.com/SpringSunYY/LZ-RuoYi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=LZ-RuoYi&theme=transparent" />
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="border:none; padding:10px;">
-      <div style="height:160px; display:flex; align-items:center; justify-content:center;">
-        <a href="https://github.com/SpringSunYY/LZ-RuoYi-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=LZ-RuoYi-App&theme=transparent" />
-        </a>
-      </div>
-    </td>
-    <td align="center" width="50%" style="border:none; padding:10px;">
-      <div style="height:160px; display:flex; align-items:center; justify-content:center;">
-        <a href="https://github.com/SpringSunYY/YY">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=YY&theme=transparent" />
-        </a>
-      </div>
-    </td>
-  </tr>
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpringSunYY/SpringSunYY/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpringSunYY/SpringSunYY/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SpringSunYY/SpringSunYY/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<p align="center">
+  <a href="https://github.com/SpringSunYY">
+    <img src="https://streak-stats.demolab.com?user=SpringSunYY&locale=zh" />
+  </a>
+</p>
+
+<div align="center" style="display:flex;justify-content:center;gap:10px;">
+  <a href="https://github.com/SpringSunYY">
+    <img height="260" width=350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpringSunYY&theme=transparent&size_weight=0.5&count_weight=0.5&custom_title=语言使用排行" />
+  </a>
+  <a href="https://github.com/SpringSunYY">
+    <img height="260" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpringSunYY&theme=transparent&stats_format=bytes&custom_title=语言使用大小排行" />
+  </a>
+  <a href="https://github.com/SpringSunYY">
+    <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+  </a>
+</div>
+
+<table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<tr>
+  <td style="padding:0;">
+    <a href="https://github.com/SpringSunYY">
+      <img height="220" width="700px" src="https://github-readme-stats.vercel.app/api?username=SpringSunYY&show_icons=true&theme=tokyonight" />
+    </a>
+  </td>
+  <td style="padding:0;">
+    <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:flex-start; justify-content:flex-start; width:420px;">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" />
+    </div>
+  </td>
+</tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpringSunYY&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 ---
 
-## 🌟 About Me
+## 🌟 关于我
 
 - 🧑‍💻 全栈开发者  
 - 🚀 Java/Vue/React  
@@ -62,36 +83,21 @@
 
 ---
 
-## 📊 GitHub 活跃度
-
-<div style="display:flex; justify-content:center; gap:20px;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SpringSunYY&show_icons=true&theme=transparent" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpringSunYY&layout=compact&theme=transparent" />
+## 📊 GitHub 项目
+<div style="display:flex;flex-wrap:wrap;justify-content:space-between;">
+<a href="https://github.com/SpringSunYY/LZ-Picture" style="width:48%;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=LZ-Picture&theme=transparent" style="width:100%;">
+</a>
+<a href="https://github.com/SpringSunYY/LZ-RuoYi" style="width:48%;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=LZ-RuoYi&theme=transparent" style="width:100%;">
+</a>
+<a href="https://github.com/SpringSunYY/LZ-RuoYi-App" style="width:48%;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=LZ-RuoYi-App&theme=transparent" style="width:100%;">
+</a>
+<a href="https://github.com/SpringSunYY/YY" style="width:48%;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=YY&theme=transparent" style="width:100%;">
+</a>
 </div>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpringSunYY&theme=tokyo-night&hide_border=true" />
-</p>
-
-
----
-
-## 🔧 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,idea,vue,react,js,git,github,mysql,redis,docker,linux" />
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="https://github.com/SpringSunYY">
-    <img src="https://img.shields.io/badge/GitHub-SpringSunYY-6e5494?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 ---
 
@@ -101,7 +107,7 @@
 >
 > 让正确的事情持续发生！
 
-
+---
 
 ## 😁 关于我
 
