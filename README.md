@@ -26,45 +26,15 @@
 
 <div align="center" style="display:flex;justify-content:center;gap:10px;">
   <a href="https://github.com/SpringSunYY">
-    <img height="260" width=350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpringSunYY&theme=transparent&size_weight=0.5&count_weight=0.5&custom_title=语言使用排行" />
+    <img height="260" width=300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpringSunYY&theme=transparent&size_weight=0.5&count_weight=0.5&custom_title=语言使用排行" />
   </a>
   <a href="https://github.com/SpringSunYY">
-    <img height="260" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpringSunYY&theme=transparent&stats_format=bytes&custom_title=语言使用大小排行" />
+    <img height="260" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpringSunYY&theme=transparent&stats_format=bytes&custom_title=语言使用大小排行" />
   </a>
   <a href="https://github.com/SpringSunYY">
-    <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+    <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
   </a>
 </div>
-
-<table align="center" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-<tr>
-  <td style="padding:0;">
-    <a href="https://github.com/SpringSunYY">
-      <img height="220" width="700px" src="https://github-readme-stats.vercel.app/api?username=SpringSunYY&show_icons=true&theme=tokyonight" />
-    </a>
-  </td>
-  <td style="padding:0;">
-    <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:flex-start; justify-content:flex-start; width:420px;">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" />
-    </div>
-  </td>
-</tr>
-</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpringSunYY&theme=tokyo-night&hide_border=true" />
@@ -80,6 +50,21 @@
 - ⚙️ 喜欢打造组件、工具、系统  
 - ☕ 代码是咖啡换来的创意与坚持  
 - 🧑‍💻一名独立开发者，有着自己的软件开发工作室
+
+---
+
+## 🔧 技术栈
+
+<p align="center">
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</p>
 
 ---
 
