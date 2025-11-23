@@ -14,7 +14,7 @@
 
 ## 🔧 技术栈
 
-<p align="center">
+<p align="center"  style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
     <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
@@ -24,6 +24,7 @@
     <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
     <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/SpringSunYY">
