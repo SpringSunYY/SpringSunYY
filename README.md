@@ -1,3 +1,5 @@
+# 你好，YY <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
 <div align="center">
   <a href="https://github.com/SpringSunYY">
     <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&pause=1000&color=09F724&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I+am+YY;Welcome+to+my+code+world%F0%9F%9A%80" alt="Typing SVG" />
@@ -10,13 +12,18 @@
   </a>
 </div>
 
-<div align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpringSunYY/SpringSunYY/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpringSunYY/SpringSunYY/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SpringSunYY/SpringSunYY/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+## 🔧 技术栈
+
+<p align="center">
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</p>
 
 <p align="center">
   <a href="https://github.com/SpringSunYY">
@@ -36,10 +43,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpringSunYY&theme=tokyo-night&hide_border=true" />
-</p>
-
 
 ---
 
@@ -51,38 +54,6 @@
 - ☕ 代码是咖啡换来的创意与坚持  
 - 🧑‍💻一名独立开发者，有着自己的软件开发工作室
 
----
-
-## 🔧 技术栈
-
-<p align="center">
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</p>
-
----
-
-## 📊 GitHub 项目
-<div style="display:flex;flex-wrap:wrap;justify-content:space-between;">
-<a href="https://github.com/SpringSunYY/LZ-Picture" style="width:48%;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=LZ-Picture&theme=transparent" style="width:100%;">
-</a>
-<a href="https://github.com/SpringSunYY/LZ-RuoYi" style="width:48%;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=LZ-RuoYi&theme=transparent" style="width:100%;">
-</a>
-<a href="https://github.com/SpringSunYY/LZ-RuoYi-App" style="width:48%;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=LZ-RuoYi-App&theme=transparent" style="width:100%;">
-</a>
-<a href="https://github.com/SpringSunYY/YY" style="width:48%;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringSunYY&repo=YY&theme=transparent" style="width:100%;">
-</a>
-</div>
 
 ---
 
@@ -94,8 +65,23 @@
 
 ---
 
-## 😁 关于我
+## 😁 联系我
 
-![1](assets/1.png)
+<p align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <a href="mailto:3217778348@qq.com">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="QQ邮箱" title="QQ邮箱" />
+  </a>
+  <a href="mailto:waitspringyy@gmail.com">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Google邮箱" title="Google邮箱" />
+  </a>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAgisqDvuV-EkMlik_LCT0fWvuIV1HoMY55uxeHiqpLg4?from_tab_name=main" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/douyin.svg" alt="抖音" title="抖音" />
+  </a>
+  <a href="https://space.bilibili.com/3546627304327173" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bilibili.svg" alt="B站" title="B站" />
+  </a>
+  <a href="https://www.youtube.com/@SpringSunYY" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" title="YouTube" />
+  </a>
+</p>
 
-![2](assets/2.png)
