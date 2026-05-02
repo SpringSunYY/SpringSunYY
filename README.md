@@ -30,19 +30,11 @@
   <a href="https://github.com/SpringSunYY">
     <img src="https://streak-stats.demolab.com?user=SpringSunYY&locale=zh" />
   </a>
-</p>
-
-<div align="center" style="display:flex;justify-content:center;gap:10px;">
-  <a href="https://github.com/SpringSunYY">
-    <img height="260" width=300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpringSunYY&theme=transparent&size_weight=0.5&count_weight=0.5&custom_title=语言使用排行" />
-  </a>
-  <a href="https://github.com/SpringSunYY">
-    <img height="260" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpringSunYY&theme=transparent&stats_format=bytes&custom_title=语言使用大小排行" />
-  </a>
-  <a href="https://github.com/SpringSunYY">
+     <a href="https://github.com/SpringSunYY">
     <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
   </a>
-</div>
+</p>
+
 
 
 ---
@@ -87,6 +79,5 @@
     <img height="60" src="./assets/youtube.png" alt="YouTube" title="YouTube" />
   </a>
 </p>
-
 
 
